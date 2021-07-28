@@ -16,6 +16,7 @@ echo "Faktorial of 5 is ". faktorial(5);
 /**
  * fungsi -> void dan non-void
  * void -> void yg tidak mengembalikan value
- * non-void -> fungsi yg mengembalikan value (return value) 
+ * non-void -> fungsi yg mengembalikan value (return value)
+ *  
  */
 ?>
